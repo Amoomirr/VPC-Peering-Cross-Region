@@ -1,7 +1,7 @@
 # VPC-Peering-Cross-Region
 # 🌐 VPC Peering for Cross Region — AWS Project
 
-This project demonstrates how to configure **cross-region VPC peering** between two Virtual Private Clouds (VPCs) hosted in **Mumbai** and **Seoul** AWS regions. It includes network setup, routing, security group configuration, and EC2 access using Bastion Hosts — all documented in a well-structured LaTeX PDF report.
+This project demonstrates how to configure **cross-region VPC peering** between two Virtual Private Clouds (VPCs) hosted in **Mumbai** and **Seoul** AWS regions. It includes network setup, routing, security group configuration, and EC2 access using Bastion Hosts 
 
 ## 📄 Project Description
 
